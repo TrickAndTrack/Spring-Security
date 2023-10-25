@@ -77,3 +77,25 @@ This jar is used for OpenID web authentication support. We can use it to authent
 
 ## Test - spring-security-test.jar
 This jar provides support for testing Spring Security application.
+# Why spring security
+![image](https://github.com/TrickAndTrack/Spring-Security/assets/73180409/76eee936-8b20-49c6-8f1c-137d039a93b6)
+* Spring security lots of flexibility & Customizable
+* another benifits (Handle common vernability) security handle all vernability we dont have to handle
+ * Session fixiation
+ * clickJacking
+ * Click site request forgery
+* widely adobtable
+# What Spring Security Can do
+![image](https://github.com/TrickAndTrack/Spring-Security/assets/73180409/17a68b05-6613-4ca1-aa34-50a52f27a46e)
+# Core concept in Spring Security
+![image](https://github.com/TrickAndTrack/Spring-Security/assets/73180409/473d0fa5-3102-4f56-bdae-a4a4e8c81fa1)
+# What is Authenticationa and Autherziation
+* Authenticationa= Who are you ?
+* Autherziation = Can this user do this? yes/No
+|||
+|------|------|
+|![image](https://github.com/TrickAndTrack/Spring-Security/assets/73180409/9c9f2848-7c8f-4406-a73c-dd80c9cc2ea5)|![image](https://github.com/TrickAndTrack/Spring-Security/assets/73180409/900fcf8a-a5ee-47e0-aca2-05dcd6b4c2a7)|
+|![image](https://github.com/TrickAndTrack/Spring-Security/assets/73180409/dae77a96-39b8-428b-8a45-544e19cc7397)|![image](https://github.com/TrickAndTrack/Spring-Security/assets/73180409/0a1cc357-d980-4584-9971-a936c0b27e89)  * = Multifactor Authenctication|
+|![image](https://github.com/TrickAndTrack/Spring-Security/assets/73180409/930534c0-a6d3-4d90-84f4-6ec13e558a83)||
+# 3rd conecpt Spring security " Principal" 
+* Currently logged in user 
