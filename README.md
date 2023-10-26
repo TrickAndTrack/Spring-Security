@@ -92,6 +92,8 @@ This jar provides support for testing Spring Security application.
 # What is Authenticationa and Autherziation
 * Authenticationa= Who are you ?
 * Autherziation = Can this user do this? yes/No
+
+  
 |step 1 | step 2|
 |------|------|
 |![image](https://github.com/TrickAndTrack/Spring-Security/assets/73180409/9c9f2848-7c8f-4406-a73c-dd80c9cc2ea5)|![image](https://github.com/TrickAndTrack/Spring-Security/assets/73180409/900fcf8a-a5ee-47e0-aca2-05dcd6b4c2a7)|
